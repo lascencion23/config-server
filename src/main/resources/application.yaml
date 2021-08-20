@@ -17,7 +17,6 @@ spring:
       discovery:
         enabled: false  
 
-        
 #  cloud:
 #    config:
 #        server:
